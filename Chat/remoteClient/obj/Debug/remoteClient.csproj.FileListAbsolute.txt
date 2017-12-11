@@ -1,0 +1,17 @@
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\bin\Debug\remoteClient.exe.config
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\bin\Debug\remoteClient.exe
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\bin\Debug\remoteClient.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient.csprojResolveAssemblyReference.cache
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\MainWindow.g.cs
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\App.g.cs
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient_MarkupCompile.cache
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient_MarkupCompile.lref
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\MainWindow.baml
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient.g.resources
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient.Properties.Resources.resources
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient.csproj.GenerateResource.Cache
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient.csproj.CoreCompileInputs.cache
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient.exe
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\obj\Debug\remoteClient.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\bin\Debug\IRomote.dll
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteClient\bin\Debug\IRomote.pdb

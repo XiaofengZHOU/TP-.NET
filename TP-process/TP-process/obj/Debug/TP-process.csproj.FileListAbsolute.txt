@@ -1,0 +1,15 @@
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process.csprojResolveAssemblyReference.cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\MainWindow.g.cs
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\App.g.cs
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process_MarkupCompile.cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process_MarkupCompile.lref
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\bin\Debug\TP-process.exe.config
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\bin\Debug\TP-process.exe
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\bin\Debug\TP-process.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\MainWindow.baml
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process.g.resources
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP_process.Properties.Resources.resources
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process.csproj.GenerateResource.Cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process.csproj.CoreCompileInputs.cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process.exe
+C:\Users\ZHOU XIAOFENG\source\repos\TP-process\TP-process\obj\Debug\TP-process.pdb

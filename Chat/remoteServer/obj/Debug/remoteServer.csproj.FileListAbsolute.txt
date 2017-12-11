@@ -1,0 +1,9 @@
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\obj\Debug\remoteServer.csprojResolveAssemblyReference.cache
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\obj\Debug\remoteServer.csproj.CoreCompileInputs.cache
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\bin\Debug\remoteServer.exe.config
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\bin\Debug\remoteServer.exe
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\bin\Debug\remoteServer.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\bin\Debug\IRomote.dll
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\bin\Debug\IRomote.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\obj\Debug\remoteServer.exe
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\remoteServer\obj\Debug\remoteServer.pdb

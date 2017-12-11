@@ -1,0 +1,10 @@
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\bin\Debug\ClassLibraryBallon.dll
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\bin\Debug\ClassLibraryBallon.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\ClassLibraryBallon.csprojResolveAssemblyReference.cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\ClassLibraryBallon.csproj.CoreCompileInputs.cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\ClassLibraryBallon.dll
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\ClassLibraryBallon.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\Ballon.baml
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\Ballon.g.cs
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\ClassLibraryBallon_MarkupCompile.cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryBallon\obj\Debug\ClassLibraryBallon.g.resources

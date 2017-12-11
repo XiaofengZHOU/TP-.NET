@@ -1,0 +1,5 @@
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryPremier\bin\Debug\ClassLibraryPremier.dll
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryPremier\bin\Debug\ClassLibraryPremier.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryPremier\obj\Debug\ClassLibraryPremier.csproj.CoreCompileInputs.cache
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryPremier\obj\Debug\ClassLibraryPremier.dll
+C:\Users\ZHOU XIAOFENG\source\repos\TP-thread\ClassLibraryPremier\obj\Debug\ClassLibraryPremier.pdb

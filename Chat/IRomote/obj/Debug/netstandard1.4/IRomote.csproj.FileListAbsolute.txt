@@ -1,0 +1,7 @@
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\IRomote\bin\Debug\netstandard1.4\IRomote.deps.json
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\IRomote\obj\Debug\netstandard1.4\IRomote.csproj.CoreCompileInputs.cache
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\IRomote\obj\Debug\netstandard1.4\IRomote.AssemblyInfo.cs
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\IRomote\bin\Debug\netstandard1.4\IRomote.dll
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\IRomote\bin\Debug\netstandard1.4\IRomote.pdb
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\IRomote\obj\Debug\netstandard1.4\IRomote.dll
+C:\Users\ZHOU XIAOFENG\source\repos\Chat\IRomote\obj\Debug\netstandard1.4\IRomote.pdb
